@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "507796188641",
-    "firebase_url": "https://fir-user-c263d.firebaseio.com",
-    "project_id": "fir-user-c263d",
-    "storage_bucket": "fir-user-c263d.appspot.com"
+    "project_number": "854184480397",
+    "firebase_url": "https://authphone-1a859.firebaseio.com",
+    "project_id": "authphone-1a859",
+    "storage_bucket": "authphone-1a859.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:507796188641:android:2fdfb3d659ce512cfc36a0",
+        "mobilesdk_app_id": "1:854184480397:android:a7a84b1cbe0cb93ed71cc4",
         "android_client_info": {
           "package_name": "comdesign.example.firebase_user_login"
         }
       },
       "oauth_client": [
         {
-          "client_id": "507796188641-03an4j5i35239s6od7kuuaec7odlfijf.apps.googleusercontent.com",
+          "client_id": "854184480397-5qtgpjn9nlhicvdev6ucm5pvl2dj1i78.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "comdesign.example.firebase_user_login",
-            "certificate_hash": "b7f9fb418a0ecba68ba756c60061af0e2e0365a3"
+            "certificate_hash": "b0185a04b0b581782bd31475f46cd23dbbafc964"
           }
         },
         {
-          "client_id": "507796188641-fdm7akpktrurdd9mnfa57l157aas7srg.apps.googleusercontent.com",
+          "client_id": "854184480397-au2vmmpm4df91gd5t4s4e2tna5vg35hh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB7W2vL8qr474xBacVu51XcrlYnmBTQL_c"
+          "current_key": "AIzaSyBrE59xXY6zqhTsA24NQpQspPsaz6LBx0w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "507796188641-fdm7akpktrurdd9mnfa57l157aas7srg.apps.googleusercontent.com",
+              "client_id": "854184480397-au2vmmpm4df91gd5t4s4e2tna5vg35hh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

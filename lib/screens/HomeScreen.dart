@@ -3,9 +3,10 @@ import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {
 
-  final FirebaseUser user;
+  final name;
+  final imageUrl;
 
-  HomeScreen({this.user});
+  HomeScreen({this.name, this.imageUrl});
 
   @override
   Widget build(BuildContext context) {
@@ -18,7 +19,8 @@ class HomeScreen extends StatelessWidget {
           children: <Widget>[
             Text("You are Logged in succesfully", style: TextStyle(color: Colors.lightBlue, fontSize: 32),),
             SizedBox(height: 16,),
-            Text("${user.phoneNumber}", style: TextStyle(color: Colors.grey, ),),
+            Text("Your name is $name", style: TextStyle(color: Colors.black, fontSize: 18),),
+            Text("$imageUrl", style: TextStyle(color: Colors.grey, ),),
           ],
         ),
       ),
