@@ -1,2 +1,2 @@
 # firebase_user_login
- This is for idea
+Using firebase to reg as phone or email so ez :>
